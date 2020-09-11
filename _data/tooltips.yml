@@ -1,4 +1,7 @@
 lesson_1:
+  cn:
+    href: /cn/lesson/1
+    title: 斜体和粗体 (Italics and Bold)
   en:
     href: /lesson/1
     title: Italics and Bold
@@ -14,10 +17,10 @@ lesson_1:
   jp:
     href: /jp/lesson/1
     title: イタリックと太字 (Italics and Bold)
-  zh-CN:
-    href: /zh-CN/lesson/1
-    title: 斜体和粗体 (Italics and Bold)
 lesson_2:
+  cn:
+    href: /cn/lesson/2
+    title: 标头 (Headers)
   en:
     href: /lesson/2
     title: Headers
@@ -33,10 +36,10 @@ lesson_2:
   jp:
     href: /jp/lesson/2
     title: 見出し (Headers)
-  zh-CN:
-    href: /zh-CN/lesson/2
-    title: 标头 (Headers)
 lesson_3:
+  cn:
+    href: /cn/lesson/3
+    title: 链接 (Links)
   en:
     href: /lesson/3
     title: Links
@@ -52,10 +55,10 @@ lesson_3:
   jp:
     href: /jp/lesson/3
     title: リンク (Links)
-  zh-CN:
-    href: /zh-CN/lesson/3
-    title: 链接 (Links)
 lesson_4:
+  cn:
+    href: /cn/lesson/4
+    title: 图片 (Images)
   en:
     href: /lesson/4
     title: Images
@@ -71,10 +74,10 @@ lesson_4:
   jp:
     href: /jp/lesson/4
     title: 画像 (Images)
-  zh-CN:
-    href: /zh-CN/lesson/4
-    title: 图片 (Images)
 lesson_5:
+  cn:
+    href: /cn/lesson/5
+    title: 引用 (Blockquotes)
   en:
     href: /lesson/5
     title: Blockquotes
@@ -90,10 +93,10 @@ lesson_5:
   jp:
     href: /jp/lesson/5
     title: 引用 (Blockquotes)
-  zh-CN:
-    href: /zh-CN/lesson/5
-    title: 引用 (Blockquotes)
 lesson_6:
+  cn:
+    href: /cn/lesson/6
+    title: 列表 (Lists)
   en:
     href: /lesson/6
     title: Lists
@@ -109,10 +112,10 @@ lesson_6:
   jp:
     href: /jp/lesson/6
     title: リスト (Lists)
-  zh-CN:
-    href: /zh-CN/lesson/6
-    title: 列表 (Lists)
 lesson_7:
+  cn:
+    href: /cn/lesson/7
+    title: 段落
   en:
     href: /lesson/7
     title: Paragraphs
@@ -128,10 +131,10 @@ lesson_7:
   jp:
     href: /jp/lesson/7
     title: 段落 (Paragraphs)
-  zh-CN:
-    href: /zh-CN/lesson/7
-    title: 段落
 conclusion:
+  cn:
+    href: /cn/conclusion
+    title: 结论
   en:
     href: /conclusion
     title: Conclusion
@@ -147,6 +150,3 @@ conclusion:
   jp:
     href: /jp/conclusion
     title: 結論
-  zh-CN:
-    href: /zh-CN/conclusion
-    title: 结论

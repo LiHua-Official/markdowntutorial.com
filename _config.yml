@@ -83,6 +83,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "zh-CN"
+      type: "zh"
     values:
-      locale: "zh-CN"
+      locale: "zh"

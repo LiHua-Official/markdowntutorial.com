@@ -1,6 +1,6 @@
 ---
 layout: default
-locale: zh-CN
+locale: cn
 ---
 Markdown是一种为Web编写内容的方法。它是用人们所喜欢的“纯文本”来编写的，“纯文本”正是您习惯于书写和查看的那种文本。纯文本只是常规文字并带有一些熟悉的符号，例如星号（ <code>*</code>）和反引号（<code>`</code>）。
 
@@ -12,7 +12,7 @@ Markdown是一种为Web编写内容的方法。它是用人们所喜欢的“纯
 
 在每节课中，您将获得一个Markdown概念的介绍。然后，将要求您使用该新知识完成一些练习。
 
-<a class="btn btn-lg btn-success" href="/zh/lesson/1">准备好了吗？让我们开始吧！</a>
+<a class="btn btn-lg btn-success" href="/cn/lesson/1">准备好了吗？让我们开始吧！</a>
 
 [academics]: http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295
 [scientists]: http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/

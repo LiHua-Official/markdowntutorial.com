@@ -2,7 +2,7 @@
 layout: default
 title: 祝贺您！
 number: 8
-locale: zh-CN
+locale: cn
 ---
 
 您已完成所有课程！
