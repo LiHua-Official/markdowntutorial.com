@@ -16,7 +16,7 @@ lesson_1:
     title: イタリックと太字 (Italics and Bold)
   zh-CN:
     href: /zh-CN/lesson/1
-    title:
+    title: 斜体和粗体 (Italics and Bold)
 lesson_2:
   en:
     href: /lesson/2
@@ -35,7 +35,7 @@ lesson_2:
     title: 見出し (Headers)
   zh-CN:
     href: /zh-CN/lesson/2
-    title:
+    title: 标头 (Headers)
 lesson_3:
   en:
     href: /lesson/3
@@ -54,7 +54,7 @@ lesson_3:
     title: リンク (Links)
   zh-CN:
     href: /zh-CN/lesson/3
-    title:
+    title: 链接 (Links)
 lesson_4:
   en:
     href: /lesson/4
@@ -73,7 +73,7 @@ lesson_4:
     title: 画像 (Images)
   zh-CN:
     href: /zh-CN/lesson/4
-    title:
+    title: 图片 (Images)
 lesson_5:
   en:
     href: /lesson/5
@@ -92,7 +92,7 @@ lesson_5:
     title: 引用 (Blockquotes)
   zh-CN:
     href: /zh-CN/lesson/5
-    title:
+    title: 引用 (Blockquotes)
 lesson_6:
   en:
     href: /lesson/6
@@ -111,7 +111,7 @@ lesson_6:
     title: リスト (Lists)
   zh-CN:
     href: /zh-CN/lesson/6
-    title:
+    title: 列表 (Lists)
 lesson_7:
   en:
     href: /lesson/7
@@ -130,7 +130,7 @@ lesson_7:
     title: 段落 (Paragraphs)
   zh-CN:
     href: /zh-CN/lesson/7
-    title:
+    title: 段落
 conclusion:
   en:
     href: /conclusion
@@ -149,4 +149,4 @@ conclusion:
     title: 結論
   zh-CN:
     href: /zh-CN/conclusion
-    title:
+    title: 结论
