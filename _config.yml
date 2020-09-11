@@ -79,7 +79,7 @@ defaults:
       path: ""
       type: "jp"
     values:
-      locale: "jp" -
+      locale: "jp"
   -
     scope:
       path: ""

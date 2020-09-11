@@ -1,6 +1,6 @@
 ---
 layout: default
-locale: zh
+locale: zh-CN
 ---
 Markdown是一种为Web编写内容的方法。它是用人们所喜欢的“纯文本”来编写的，“纯文本”正是您习惯于书写和查看的那种文本。纯文本只是常规文字并带有一些熟悉的符号，例如星号（ <code>*</code>）和反引号（<code>`</code>）。
 
