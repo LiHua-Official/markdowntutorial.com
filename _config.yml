@@ -45,6 +45,9 @@ collections:
   jp:
     output: true
     permalink: jp/lesson/:name/
+  zh:
+    output: true
+    permalink: zh/lesson/:name/
 
 defaults:
   -
@@ -76,6 +79,10 @@ defaults:
       path: ""
       type: "jp"
     values:
-      locale: "jp"
-
-
+      locale: "jp" -
+  -
+    scope:
+      path: ""
+      type: "zh"
+    values:
+      locale: "zh"
