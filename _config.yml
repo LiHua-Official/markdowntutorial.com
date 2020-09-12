@@ -58,6 +58,11 @@ collections:
 defaults:
   - scope:
       path: ""
+      type: "cn"
+    values:
+      locale: "cn"
+  - scope:
+      path: ""
       type: "en"
     values:
       locale: "en"

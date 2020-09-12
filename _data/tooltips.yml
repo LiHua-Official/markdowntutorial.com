@@ -1,4 +1,7 @@
 lesson_1:
+  cn:
+    href: /cn/lesson/1
+    title: 斜体和粗体 (Italics and Bold)
   en:
     href: /lesson/1
     title: Italics and Bold
@@ -18,6 +21,9 @@ lesson_1:
     href: /nl/lesson/1
     title: Schuin en vetgedrukt
 lesson_2:
+  cn:
+    href: /cn/lesson/2
+    title: 标题 (Headers)
   en:
     href: /lesson/2
     title: Headers
@@ -37,6 +43,9 @@ lesson_2:
     href: /nl/lesson/2
     title: Kopteksten
 lesson_3:
+  cn:
+    href: /cn/lesson/3
+    title: 链接 (Links)
   en:
     href: /lesson/3
     title: Links
@@ -56,6 +65,9 @@ lesson_3:
     href: /nl/lesson/3
     title: Hyperlinks
 lesson_4:
+  cn:
+    href: /cn/lesson/4
+    title: 图片 (Images)
   en:
     href: /lesson/4
     title: Images
@@ -75,6 +87,9 @@ lesson_4:
     href: /nl/lesson/4
     title: Afbeeldingen
 lesson_5:
+  cn:
+    href: /cn/lesson/5
+    title: 引用 (Blockquotes)
   en:
     href: /lesson/5
     title: Blockquotes
@@ -94,6 +109,9 @@ lesson_5:
     href: /nl/lesson/5
     title: Blokcitaten
 lesson_6:
+  cn:
+    href: /cn/lesson/6
+    title: 列表 (Lists)
   en:
     href: /lesson/6
     title: Lists
@@ -113,6 +131,9 @@ lesson_6:
     href: /nl/lesson/6
     title: Lijsten
 lesson_7:
+  cn:
+    href: /cn/lesson/7
+    title: 段落
   en:
     href: /lesson/7
     title: Paragraphs
@@ -132,6 +153,9 @@ lesson_7:
     href: /nl/lesson/7
     title: Paragrafen
 conclusion:
+  cn:
+    href: /cn/conclusion
+    title: 结论
   en:
     href: /conclusion
     title: Conclusion
