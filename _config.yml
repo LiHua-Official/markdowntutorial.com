@@ -36,6 +36,9 @@ collections:
   en:
     output: true
     permalink: lesson/:name/
+  cn:
+    output: true
+    permalink: cn/lesson/:name/
   es:
     output: true
     permalink: es/lesson/:name/
