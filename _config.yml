@@ -17,7 +17,7 @@ exclude: [
     "README.md",
     "Rakefile",
     "bower.json",
-    "config.ru"
+    "config.ru",
   ]
 
 repository: gjtorikian/markdowntutorial.com
@@ -26,6 +26,9 @@ assets:
   compress:
     css: true
     js: true
+  cdn:
+    baseurl: false
+    url: null
 
 collections_dir: lessons
 
@@ -45,35 +48,38 @@ collections:
   jp:
     output: true
     permalink: jp/lesson/:name/
+  nl:
+    output: true
+    permalink: nl/lesson/:name/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "en"
     values:
       locale: "en"
-  -
-    scope:
+  - scope:
       path: ""
       type: "es"
     values:
       locale: "es"
-  -
-    scope:
+  - scope:
       path: ""
       type: "fr"
     values:
       locale: "fr"
-  -
-    scope:
+  - scope:
       path: ""
       type: "kr"
     values:
       locale: "kr"
-  -
-    scope:
+  - scope:
       path: ""
       type: "jp"
     values:
       locale: "jp"
+  - scope:
+      path: ""
+      type: "nl"
+    values:
+      locale: "nl"
