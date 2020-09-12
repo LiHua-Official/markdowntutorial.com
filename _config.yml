@@ -1,24 +1,24 @@
 name: Markdown Tutorial
 title: Markdown Tutorial
-baseurl: https://www.markdowntutorial.com
-url: "http://www.markdowntutorial.com"
+baseurl: ""
+url: "https://www.markdowntutorial.com"
 permalink: pretty
 exclude: [
-  # Folders
-  "bin",
-  "script",
-  "vendor",
-  "spec",
+    # Folders
+    "bin",
+    "script",
+    "vendor",
+    "spec",
 
-  # Files
-  "*.sublime*",
-  "Gemfile*",
-  "CONTRIBUTING.md",
-  "README.md",
-  "Rakefile",
-  "bower.json",
-  "config.ru"
-]
+    # Files
+    "*.sublime*",
+    "Gemfile*",
+    "CONTRIBUTING.md",
+    "README.md",
+    "Rakefile",
+    "bower.json",
+    "config.ru"
+  ]
 
 repository: gjtorikian/markdowntutorial.com
 
