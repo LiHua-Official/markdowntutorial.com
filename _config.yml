@@ -1,24 +1,24 @@
 name: Markdown Tutorial
 title: Markdown Tutorial
-baseurl: https://www.markdowntutorial.com
-url: "http://www.markdowntutorial.com"
+baseurl: ""
+url: "https://www.markdowntutorial.com"
 permalink: pretty
 exclude: [
-  # Folders
-  "bin",
-  "script",
-  "vendor",
-  "spec",
+    # Folders
+    "bin",
+    "script",
+    "vendor",
+    "spec",
 
-  # Files
-  "*.sublime*",
-  "Gemfile*",
-  "CONTRIBUTING.md",
-  "README.md",
-  "Rakefile",
-  "bower.json",
-  "config.ru"
-]
+    # Files
+    "*.sublime*",
+    "Gemfile*",
+    "CONTRIBUTING.md",
+    "README.md",
+    "Rakefile",
+    "bower.json",
+    "config.ru",
+  ]
 
 repository: gjtorikian/markdowntutorial.com
 
@@ -26,6 +26,9 @@ assets:
   compress:
     css: true
     js: true
+  cdn:
+    baseurl: false
+    url: null
 
 collections_dir: lessons
 
@@ -33,6 +36,9 @@ collections:
   en:
     output: true
     permalink: lesson/:name/
+  cn:
+    output: true
+    permalink: cn/lesson/:name/
   es:
     output: true
     permalink: es/lesson/:name/
@@ -45,44 +51,43 @@ collections:
   jp:
     output: true
     permalink: jp/lesson/:name/
-  zh-CN:
+  nl:
     output: true
-    permalink: zh-CN/lesson/:name/
+    permalink: nl/lesson/:name/
 
 defaults:
-  -
-    scope:
+  - scope:
+      path: ""
+      type: "cn"
+    values:
+      locale: "cn"
+  - scope:
       path: ""
       type: "en"
     values:
       locale: "en"
-  -
-    scope:
+  - scope:
       path: ""
       type: "es"
     values:
       locale: "es"
-  -
-    scope:
+  - scope:
       path: ""
       type: "fr"
     values:
       locale: "fr"
-  -
-    scope:
+  - scope:
       path: ""
       type: "kr"
     values:
       locale: "kr"
-  -
-    scope:
+  - scope:
       path: ""
       type: "jp"
     values:
       locale: "jp"
-  -
-    scope:
+  - scope:
       path: ""
-      type: "zh"
+      type: "nl"
     values:
-      locale: "zh"
+      locale: "nl"
